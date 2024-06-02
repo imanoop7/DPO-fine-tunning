@@ -1,0 +1,7 @@
+# Install necessary libraries
+datasets 
+trl 
+bitsandbytes 
+sentencepiece
+transformers
+peft
